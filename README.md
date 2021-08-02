@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jianshuoyangbugfree
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning all the techs related to front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jsy.bornconfused@gmail.com
 
